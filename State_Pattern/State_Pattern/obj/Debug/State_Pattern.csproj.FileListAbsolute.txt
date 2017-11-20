@@ -1,0 +1,10 @@
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\bin\Debug\State_Pattern.exe.config
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\bin\Debug\State_Pattern.exe
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\bin\Debug\State_Pattern.pdb
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\obj\Debug\State_Pattern.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\obj\Debug\State_Pattern.Form1.resources
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\obj\Debug\State_Pattern.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\obj\Debug\State_Pattern.testing.resources
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\obj\Debug\State_Pattern.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\obj\Debug\State_Pattern.exe
+G:\drive\4th semester\00ad proj\web\State_Pattern\State_Pattern\obj\Debug\State_Pattern.pdb
