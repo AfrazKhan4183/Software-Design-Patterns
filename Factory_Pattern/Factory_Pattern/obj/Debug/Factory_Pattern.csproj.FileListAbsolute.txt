@@ -1,0 +1,9 @@
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe.config
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.pdb
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.exe
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.pdb
+G:\drive\4th semester\00ad proj\web\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.Form1.resources
