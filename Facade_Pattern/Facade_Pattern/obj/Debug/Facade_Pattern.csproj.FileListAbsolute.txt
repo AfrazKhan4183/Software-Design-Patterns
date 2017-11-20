@@ -1,0 +1,9 @@
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\bin\Debug\Facade_Pattern.exe.config
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.Form1.resources
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\bin\Debug\Facade_Pattern.exe
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\bin\Debug\Facade_Pattern.pdb
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.exe
+G:\drive\4th semester\00ad proj\web\Facade_Pattern\Facade_Pattern\obj\Debug\Facade_Pattern.pdb
