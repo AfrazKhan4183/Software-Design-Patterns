@@ -1,0 +1,9 @@
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\bin\Debug\Proxy_Pattern.exe.config
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\obj\Debug\Proxy_Pattern.csprojResolveAssemblyReference.cache
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\obj\Debug\Proxy_Pattern.Form1.resources
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\obj\Debug\Proxy_Pattern.Properties.Resources.resources
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\obj\Debug\Proxy_Pattern.csproj.GenerateResource.Cache
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\bin\Debug\Proxy_Pattern.exe
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\bin\Debug\Proxy_Pattern.pdb
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\obj\Debug\Proxy_Pattern.exe
+G:\drive\4th semester\00ad proj\web\Proxy_Pattern\Proxy_Pattern\obj\Debug\Proxy_Pattern.pdb
